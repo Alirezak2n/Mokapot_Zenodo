@@ -3,7 +3,7 @@ from mokapot_svm import run_mokapot_svm
 from rf_model import run_random_forest
 from xg_model import run_xgboost_model
 
-def main(directory='E:/Peptideshaker_results/'):
+def main(directory='../Peptideshaker_results/'):
 
     for pxd_folder in os.listdir(directory):
         pxd_path = os.path.join(directory, pxd_folder)
