@@ -34,9 +34,7 @@ Alireza Nameni¹², Arthur Declercq¹², Ralf Gabriels¹², Sven Degroeve¹², L
         - msamanda/
         - msgf_noEntrapment/ (for some of the projects)
     - PXD000612/
-    .
-    .
-    .
+    - ... (other projects)
     - PXD040344/
 - random_forest_csv_results/
 - Scripts/
