@@ -20,7 +20,7 @@ Alireza Nameni¹², Arthur Declercq¹², Ralf Gabriels¹², Sven Degroeve¹², L
 ---
 
 ## 📂 Repository Structure
-
+### You need to download the data from Zenodo and place it in the correct folders as described below, in order to run the pipeline and recreate the figures successfully.
 
 - ML_Algorithms_results/
     - mokapot_svm/
