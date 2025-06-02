@@ -1,4 +1,6 @@
 
+![mokapot](https://github.com/user-attachments/assets/51f9de22-38ef-4e0c-89a2-5c5855f3f06b)
+
 # Enhancing Peptide-Spectrum Match Identification
 
 This repository contains the code and Jupyter notebook to recreate the manuscript's figures and rerun the entire pipeline.
