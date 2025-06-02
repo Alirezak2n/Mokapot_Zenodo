@@ -48,7 +48,7 @@ Alireza Nameni¹², Arthur Declercq¹², Ralf Gabriels¹², Sven Degroeve¹², L
 
 
 ## Data download
-Due to size restriction, the data is not included in this repository. The data can be downloaded from Zenodo at the following link: [Zenodo Data](https://zenodo.org/record/1).
+Due to size restriction, the data is not included in this repository. The data can be downloaded from Zenodo at the following link: [Zenodo Data](https://zenodo.org/records/15535864).
 
 ## Contact
 For questions or support, please open an issue or contact alireza.nameni@ugent.be
